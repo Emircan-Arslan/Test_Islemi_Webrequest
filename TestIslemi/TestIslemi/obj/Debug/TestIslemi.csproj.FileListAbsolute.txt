@@ -1,0 +1,15 @@
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\bin\Debug\TestIslemi.exe.config
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\bin\Debug\TestIslemi.exe
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\bin\Debug\TestIslemi.pdb
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.csprojAssemblyReference.cache
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\MainWindow.g.cs
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\App.g.cs
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi_MarkupCompile.cache
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi_MarkupCompile.lref
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\MainWindow.baml
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.g.resources
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.Properties.Resources.resources
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.csproj.GenerateResource.cache
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.csproj.CoreCompileInputs.cache
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.exe
+C:\VisualStudioCalisma\TestIslemi\TestIslemi\obj\Debug\TestIslemi.pdb
